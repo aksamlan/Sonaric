@@ -8,9 +8,9 @@ Minimum Sistem Gereksinimleri :
 ✅ 64-bit operating system
 
 ### Linkler
-[Explorer](https://tracker.sonaric.xyz/)
-[Twitter](https://x.com/Sonaricnetwork)
-[Discord](https://discord.gg/MZ247hw47z)
+[Explorer](https://tracker.sonaric.xyz/)   /
+[Twitter](https://x.com/Sonaricnetwork)    /
+[Discord](https://discord.gg/MZ247hw47z) 
 
 ## 🟢 Sistemi güncelleyelim
 ```shell

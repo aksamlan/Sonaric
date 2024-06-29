@@ -12,6 +12,9 @@ Minimum Sistem Gereksinimleri :
 [Twitter](https://x.com/Sonaricnetwork)    /
 [Discord](https://discord.gg/MZ247hw47z) 
 
+## 🟢 Kullandığı portlar : 
+![image](https://github.com/aksamlan/Sonaric/blob/main/portlar.png?raw=true)
+
 ## 🟢 Sistemi güncelleyelim
 ```shell
 sudo apt update && \

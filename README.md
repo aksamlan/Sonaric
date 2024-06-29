@@ -27,7 +27,6 @@ wget https://raw.githubusercontent.com/aksamlan/Sonaric/main/sonaric.sh && chmod
 ```shell
 ufw allow 22
 ufw allow ssh
-sudo ufw allow 44004
 ```
 
 ## 🟢 Düğümünüzün Başarıyla Kurulup Kurulmadığını Kontrol Edin

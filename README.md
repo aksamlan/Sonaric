@@ -10,7 +10,7 @@ Minimum Sistem Gereksinimleri :
 ### Linkler
 [Explorer](https://tracker.sonaric.xyz/)
 [Twitter](https://x.com/Sonaricnetwork)
-[Twitter](discord.gg/MZ247hw47z)
+[Discord](discord.gg/MZ247hw47z)
 
 ## 🟢 Sistemi güncelleyelim
 ```shell

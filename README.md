@@ -53,6 +53,10 @@ sonaric identity-export -o mysonaric.identity
 ```shell
 sonaric points
 ```
+## 🟢 İsim değiştirmek için bu kodu girin ve sonra isminizi yazın
+```shell
+sonaric node-rename
+```
 
 mysonaric.identity dosyasını güvenli bir yere kaydedin. Root klasörü içerisinde oluşmaktadır.
 

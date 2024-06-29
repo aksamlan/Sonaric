@@ -40,15 +40,17 @@ sonaric node-info
 ```shell
 ssh -L 127.0.0.1:44003:127.0.0.1:44003 -L 127.0.0.1:44004:127.0.0.1:44004 -L 127.0.0.1:44005:127.0.0.1:44005 -L 127.0.0.1:44006:127.0.0.1:44006 user@your-vps-ip
 ```
-
-## 🟢 GUI dosyanızı yedekleyin
-- Önce kendi Ip'niz ile bu adrese gidin http://localhost:44004
-- ⚙️ simgesine tıklayın, ardından json dosyasını dışa aktarın ve güvenli bir yere kaydedin.
+Girdikten sonra sunucu şifrenizi girip çalışıyor.
 
 ## 🟢 Sunucudaki bilgilerinizi yedekleyin
 ```shell
 sonaric identity-export -o mysonaric.identity
 ```
-mysonaric.identity dosyasını güvenli bir yere kaydedin.
+## 🟢 Sunucuda puanlarınızı görmek için bu kodu girin
+```shell
+sonaric points
+```
+
+mysonaric.identity dosyasını güvenli bir yere kaydedin. Root klasörü içerisinde oluşmaktadır.
 
 İŞLEMLERİMİZ BU KADARDI. TEŞEKKÜRLER...

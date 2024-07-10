@@ -26,11 +26,6 @@ sudo apt install curl git jq build-essential gcc unzip wget lz4 -y
 wget https://raw.githubusercontent.com/aksamlan/Sonaric/main/sonaric.sh && chmod +x sonaric.sh && ./sonaric.sh
 ```
 
-## 🟢 Yükleme bittikten sonra portları açalım
-```shell
-ufw allow 22
-ufw allow ssh
-```
 
 ## 🟢 Düğümünüzün Başarıyla Kurulup Kurulmadığını Kontrol Edin
 ```shell
